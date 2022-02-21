@@ -1,1 +1,2 @@
 # group-proposal
+authors:
