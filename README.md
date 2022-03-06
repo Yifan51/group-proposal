@@ -1,2 +1,2 @@
 # group-proposal
-authors:
+authors: Yifan Wu
